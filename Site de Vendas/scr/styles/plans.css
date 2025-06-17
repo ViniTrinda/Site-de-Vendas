@@ -71,3 +71,43 @@
      color: var(--color-primary-6);
 }
 
+
+
+@media screen and (max-width: 1650px) {
+
+    .plan {
+        width: 50%;
+        margin-bottom: 20px;
+    }
+     
+}
+
+@media screen and (max-width: 1010px) {
+
+    .plan {
+          width: 65%;
+     }
+    
+     
+}
+
+@media screen and (max-width: 775px) {
+
+    .plan {
+          width: 80%;
+     }
+    
+     
+}
+
+@media screen and (max-width: 630px) {
+
+    .plan {
+          width: 95%;
+     }
+     #plans{
+          padding: 0;
+     }
+    
+     
+}
